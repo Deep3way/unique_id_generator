@@ -1,3 +1,7 @@
-## 0.0.1
+#### `CHANGELOG.md`
 
-* TODO: Describe initial release.
+```markdown
+
+## 1.0.0
+- Initial release with random and timestamp-based ID generation.
+- Added unit tests and example usage.
